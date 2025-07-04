@@ -8,7 +8,7 @@ import SecondVideo from "./sections/SecondVideo";
 import LuciaCaminos from "./sections/LuciaCaminos";
 import PostCard from "./sections/PostCard";
 import FinalVideo from "./sections/FinalVideo";
-import Outro from "./sections/Outro";
+import Footer from "./sections/Footer";
 gsap.registerPlugin(ScrollTrigger);
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
       <LuciaCaminos />
       <PostCard />
       <FinalVideo />
-      <Outro />
+      <Footer />
     </main>
   );
 }
