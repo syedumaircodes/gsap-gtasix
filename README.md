@@ -12,4 +12,4 @@ A clone of the GTA 6 landing page before GTA 6. Made in React with TailwindCSS a
 
 ## Live Demo
 
-The site is deployed at [this link]()
+The site is deployed at [this link](https://gtasixer.netlify.app/)
